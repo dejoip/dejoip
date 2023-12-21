@@ -1,16 +1,15 @@
-### Hi there 👋
+                                                dejoip@GitHub
+                                                -------------
+██████╗ ███████╗     ██╗ ██████╗ ██╗██████╗     OS: Windows 11, Arch Linux, macOS 14.2, MikroTik ROS 7.13
+██╔══██╗██╔════╝     ██║██╔═══██╗██║██╔══██╗    Servers: Debian, SUSE (SLES)
+██║  ██║█████╗       ██║██║   ██║██║██████╔╝    Protocols: IKEv2/IPSec, WireGuard/UDP, Shadowsocks/TCP
+██║  ██║██╔══╝  ██   ██║██║   ██║██║██╔═══╝     
+██████╔╝███████╗╚█████╔╝╚██████╔╝██║██║         Contact:
+╚═════╝ ╚══════╝ ╚════╝  ╚═════╝ ╚═╝╚═╝         --------
+                                                Email: admin@1337.tf
+                                                Discord: dejoip (332940427063721986)
 
-<!--
-**dejoip/dejoip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                                Coding:
+                                                -------
+                                                Scripting: Bash, Python
+                                                Languages: C++
